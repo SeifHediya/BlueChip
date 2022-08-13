@@ -12,7 +12,7 @@ We are:
 * Entrepreneurs
 
 ### What's BlueChip? ###
-Utilizing a technological solution to help integrate minorities into the coaching pipeline
+Utilizing a technological solution to help integrate minorities into the NFL coaching pipeline
 * Data-driven
 * User Anonymity
 * Mobile-first Solution
