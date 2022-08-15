@@ -28,7 +28,7 @@ Utilizing a technological solution to help integrate minorities into the NFL coa
 [![Third annual HBCU Battle of The Brains Documentary Short](https://user-images.githubusercontent.com/42880953/184466913-696f0a74-0c25-4e5f-af49-1a8f872315f5.png)](https://player.vimeo.com/video/337156467?h=639bf72802 "Third annual HBCU Battle of The Brains Documentary Short")
 
 ### Mentors 🤝 ###
-* [Audria N. Ford](https://user-images.githubusercontent.com/42880953/184466279-9cd2a7b7-4114-417b-9fcb-780b79b4a42f.png)
+* [Audria N. Ford](https://www.pvamu.edu/sites/hb2504/cvs/All/anford.pdf)
 * [Clyde McNeil MBA, CPA, CIA](https://www.pvamu.edu/sites/hb2504/cvs/All/clmcneil.pdf)
 
 
